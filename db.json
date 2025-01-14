@@ -1,0 +1,18 @@
+{
+  "user": [
+    {
+      "id": "Admin",
+      "name": "ADmin",
+      "email": "Admin@in.com",
+      "gender": "male",
+      "role": ""
+    },
+    {
+      "id": "Vivek@123",
+      "name": "Vivek",
+      "email": "vivek@in.com",
+      "gender": "male",
+      "role": ""
+    }
+  ]
+}
